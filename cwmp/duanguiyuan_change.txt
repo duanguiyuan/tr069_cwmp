@@ -1,0 +1,5 @@
+change log : 1
+		20160912 by duanguiyuan
+		add source file
+		测试了 首次认证 upload download reboot factroyRecovery 
+		功能都可以是有，处理上报的Event code 需要做一些修改，其他的均满足需求
